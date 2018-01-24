@@ -1,0 +1,10 @@
+ hi 
+ iam leanring devops
+
+ my concentration is on 
+ aws
+ jenkins
+ ansible
+ linux
+ nagios
+
